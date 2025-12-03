@@ -1724,7 +1724,7 @@ footer .sec3 {
   }
 
   .flex-footer section {
-    width: 100%;
+    width: auto;
     text-align: center;
   }
 
@@ -1735,7 +1735,6 @@ footer .sec3 {
   }
   .sec2 .secti1 {
     display: block;
-    transform: translatex(-50px);
   }
   footer .sec3 .secti1 {
     justify-content: center;
@@ -1766,3 +1765,4 @@ footer .sec3 {
     justify-content: start;
   }
 }
+
